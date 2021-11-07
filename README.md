@@ -1,0 +1,11 @@
+# school-dev-k8s
+[Урок 2](https://youtu.be/V6aGfrMXhbA)
+[Урок 3](https://youtu.be/LLVfC08UVqY)
+[урок 4](https://youtu.be/-xZ02dEF6kU)
+[Урок 5](https://youtu.be/8Wk1iI8mMrw?t=1314)
+[Урок 6](https://youtu.be/OmTYdf_uDeQ)
+[Урок 7](https://youtu.be/0rN_tUIZx7Y)
+[Урок 8](https://youtu.be/df0d1fNdQeg)
+[Урок 9](https://youtu.be/2qwzEiOJ2eQ)
+[Урок 10](https://youtu.be/j1Bb26PRZWE)
+[Урок 11](https://youtu.be/kcOWcRDF3P4)
