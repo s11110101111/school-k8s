@@ -9,5 +9,5 @@
 [Урок 9](https://youtu.be/2qwzEiOJ2eQ)
 [Урок 10](https://youtu.be/j1Bb26PRZWE)
 [Урок 11](https://youtu.be/kcOWcRDF3P4)
-[Урок 12]()
+[Урок 12](https://youtu.be/haFDrZcOgEU)
 [Урок 13](https://youtu.be/Htcj1qLZcpk)
