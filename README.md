@@ -1,4 +1,5 @@
-# school-dev-k8s
+# school-dev-k8s 
+[основная репа] (https://github.com/Slurmio/school-dev-k8s)
 [Урок 2](https://youtu.be/V6aGfrMXhbA)
 [Урок 3](https://youtu.be/LLVfC08UVqY)
 [урок 4](https://youtu.be/-xZ02dEF6kU)
