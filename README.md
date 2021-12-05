@@ -13,3 +13,7 @@
 [Урок 13](https://youtu.be/Htcj1qLZcpk)
 [Урок 14](https://youtu.be/IaHHV_TCWq0)
 [Урок 15](https://youtu.be/04AIzanMEkA)
+[Урок 16](https://youtu.be/THBMdrynDcI)
+[Урок 17](https://youtu.be/zmP4y4EDOvc)
+[Урок 18](https://youtu.be/2h5R3PTi61M)
+[Урок 19](https://youtu.be/Xn7wrIXxFhg)
